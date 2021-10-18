@@ -1,10 +1,6 @@
 # portfolio-photo
 :camera: Jekyll based portfolio using Flickr API.
 
-#DISCLAIMER
-
-**This is work in progress**
-
 ## How is it built?
 
 This portfolio is based on [Jekyll](https://jekyllrb.com/). Please read the [docs](https://jekyllrb.com/docs/home/).
